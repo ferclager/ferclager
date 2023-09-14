@@ -27,5 +27,5 @@
 
 <a href="https://es.linkedin.com/in/fernandoramirezclager/en"><img align="left" style="padding:2px;" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Fernando Ramírez Clager | LinkedIn" width="21px"/></a>
 
-<a href="https://www.instagram.com/fernanramcla/"><img align="left" style="padding:2px;" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="Fernando Ramírez Clager | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/ferclager/"><img align="left" style="padding:2px;" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="Fernando Ramírez Clager | Instagram" width="21px"/></a>
 </br>
