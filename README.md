@@ -1,7 +1,11 @@
 # Hi 👋, I'm Fer
-## A passionate backend developer married with two adorable kids
-> I hear and I forget. I see and I remember. I do and I understand.
-> Confucius
+
+## Software Engineer from Spain 🇪🇸 | Passionate Backend Developer
+
+🏠 Married with two adorable kids | ☕ Future Java Champion (working on it!)
+
+> *"I hear and I forget. I see and I remember. I do and I understand."*
+> — Confucius
 
 ### 💻 Languages, Frameworks, & Tools:
 
@@ -27,7 +31,8 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://es.linkedin.com/in/fernandoramirezclager/en"><img align="left" style="padding:2px;" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Fernando Ramírez Clager | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/ferclager/"><img align="left" style="padding:2px;" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="FeR Clager | Instagram" width="21px"/></a>
-<a href="https://twitter.com/ferclager"><img align="left" style="padding:2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="21px" alt="FeR Clager | Twitter">
-</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/fernandoramirezclager/en)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ferclager)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ferclager)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ferclager)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferclager/)
